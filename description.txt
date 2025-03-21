@@ -1,0 +1,27 @@
+⦿ Topik: "Perubahan Iklim"
+
+⦿ Yang diimplementasikan: Visi Komputer & Discord Bot
+
+⦿ Requirements (Kebutuhan):
+- Google Teachable Machine
+- VS Code
+- Discord Developer Portal (untuk bot Discord)
+
+⦿ Library (Pustaka):
+- discord.py
+- requests
+- numpy
+- keras
+- tensorflow==2.15.0
+- pillow
+
+⦿ Steps (Langkah-langkah):
+1: Buatlah proyek baru untuk mengklasifikasikan gambar di Google Teachable Machine
+2: Buat 3 kelas (class), yang terdiri dari Pembuangan sampah sembarangan, Deforestasi, dan Pencairan Es Kutub
+3: Kumpulkan sampel-sampel berdasarkan ketiga kelas tersebut, lalu kita latih model
+4: Uji model dengan mengirimkan gambar data uji
+5: Setelah diuji, baru kita ekspor model yang telah kita latih dan uji, dimana model akan mengonversi dalam bentuk <file>.zip
+6: Buka File Explorer untuk mengekstrak zip file (atau bisa mengekstrak lewat ekstensi di VS Code)
+7: Setelah kita mengekstrak file tersebut, pindahkan ke file proyek
+8: Selamat Mengerjakan Proyek! ❤️
+
